@@ -1,0 +1,264 @@
+2025-05-12 07:08:34 [31merror[39m: AxiosError: Request failed with status code 401
+    at settle (file:///C:/Users/user/Desktop/code/staakX/backend/node_modules/axios/lib/core/settle.js:19:12)
+    at IncomingMessage.handleStreamEnd (file:///C:/Users/user/Desktop/code/staakX/backend/node_modules/axios/lib/adapters/http.js:599:11)
+    at IncomingMessage.emit (node:events:530:35)
+    at endReadableNT (node:internal/streams/readable:1698:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:90:21)
+    at Axios.request (file:///C:/Users/user/Desktop/code/staakX/backend/node_modules/axios/lib/core/Axios.js:45:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async handleCallback (file:///C:/Users/user/Desktop/code/staakX/backend/src/controllers/auth.controller.ts:43:33)
+2025-05-12 07:16:04 [31merror[39m: AxiosError: Request failed with status code 401
+    at settle (file:///C:/Users/user/Desktop/code/staakX/backend/node_modules/axios/lib/core/settle.js:19:12)
+    at IncomingMessage.handleStreamEnd (file:///C:/Users/user/Desktop/code/staakX/backend/node_modules/axios/lib/adapters/http.js:599:11)
+    at IncomingMessage.emit (node:events:530:35)
+    at endReadableNT (node:internal/streams/readable:1698:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:90:21)
+    at Axios.request (file:///C:/Users/user/Desktop/code/staakX/backend/node_modules/axios/lib/core/Axios.js:45:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async handleCallback (file:///C:/Users/user/Desktop/code/staakX/backend/src/controllers/auth.controller.ts:43:33)
+2025-05-12 07:16:15 [31merror[39m: AxiosError: Request failed with status code 401
+    at settle (file:///C:/Users/user/Desktop/code/staakX/backend/node_modules/axios/lib/core/settle.js:19:12)
+    at IncomingMessage.handleStreamEnd (file:///C:/Users/user/Desktop/code/staakX/backend/node_modules/axios/lib/adapters/http.js:599:11)
+    at IncomingMessage.emit (node:events:530:35)
+    at endReadableNT (node:internal/streams/readable:1698:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:90:21)
+    at Axios.request (file:///C:/Users/user/Desktop/code/staakX/backend/node_modules/axios/lib/core/Axios.js:45:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async handleCallback (file:///C:/Users/user/Desktop/code/staakX/backend/src/controllers/auth.controller.ts:43:33)
+2025-05-12 07:16:35 [31merror[39m: AxiosError: Request failed with status code 401
+    at settle (file:///C:/Users/user/Desktop/code/staakX/backend/node_modules/axios/lib/core/settle.js:19:12)
+    at IncomingMessage.handleStreamEnd (file:///C:/Users/user/Desktop/code/staakX/backend/node_modules/axios/lib/adapters/http.js:599:11)
+    at IncomingMessage.emit (node:events:530:35)
+    at endReadableNT (node:internal/streams/readable:1698:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:90:21)
+    at Axios.request (file:///C:/Users/user/Desktop/code/staakX/backend/node_modules/axios/lib/core/Axios.js:45:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async handleCallback (file:///C:/Users/user/Desktop/code/staakX/backend/src/controllers/auth.controller.ts:43:33)
+2025-05-12 07:17:41 [31merror[39m: AxiosError: Request failed with status code 401
+    at settle (file:///C:/Users/user/Desktop/code/staakX/backend/node_modules/axios/lib/core/settle.js:19:12)
+    at IncomingMessage.handleStreamEnd (file:///C:/Users/user/Desktop/code/staakX/backend/node_modules/axios/lib/adapters/http.js:599:11)
+    at IncomingMessage.emit (node:events:530:35)
+    at endReadableNT (node:internal/streams/readable:1698:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:90:21)
+    at Axios.request (file:///C:/Users/user/Desktop/code/staakX/backend/node_modules/axios/lib/core/Axios.js:45:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async handleCallback (file:///C:/Users/user/Desktop/code/staakX/backend/src/controllers/auth.controller.ts:43:33)
+2025-05-12 07:21:37 [31merror[39m: AxiosError: Request failed with status code 401
+    at settle (file:///C:/Users/user/Desktop/code/staakX/backend/node_modules/axios/lib/core/settle.js:19:12)
+    at IncomingMessage.handleStreamEnd (file:///C:/Users/user/Desktop/code/staakX/backend/node_modules/axios/lib/adapters/http.js:599:11)
+    at IncomingMessage.emit (node:events:530:35)
+    at endReadableNT (node:internal/streams/readable:1698:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:90:21)
+    at Axios.request (file:///C:/Users/user/Desktop/code/staakX/backend/node_modules/axios/lib/core/Axios.js:45:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async handleCallback (file:///C:/Users/user/Desktop/code/staakX/backend/src/controllers/auth.controller.ts:51:33)
+2025-05-12 07:26:21 [31merror[39m: AxiosError: Request failed with status code 401
+    at settle (file:///C:/Users/user/Desktop/code/staakX/backend/node_modules/axios/lib/core/settle.js:19:12)
+    at IncomingMessage.handleStreamEnd (file:///C:/Users/user/Desktop/code/staakX/backend/node_modules/axios/lib/adapters/http.js:599:11)
+    at IncomingMessage.emit (node:events:530:35)
+    at endReadableNT (node:internal/streams/readable:1698:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:90:21)
+    at Axios.request (file:///C:/Users/user/Desktop/code/staakX/backend/node_modules/axios/lib/core/Axios.js:45:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async handleCallback (file:///C:/Users/user/Desktop/code/staakX/backend/src/controllers/auth.controller.ts:52:33)
+2025-05-12 07:26:37 [31merror[39m: AxiosError: Request failed with status code 401
+    at settle (file:///C:/Users/user/Desktop/code/staakX/backend/node_modules/axios/lib/core/settle.js:19:12)
+    at IncomingMessage.handleStreamEnd (file:///C:/Users/user/Desktop/code/staakX/backend/node_modules/axios/lib/adapters/http.js:599:11)
+    at IncomingMessage.emit (node:events:530:35)
+    at endReadableNT (node:internal/streams/readable:1698:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:90:21)
+    at Axios.request (file:///C:/Users/user/Desktop/code/staakX/backend/node_modules/axios/lib/core/Axios.js:45:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async handleCallback (file:///C:/Users/user/Desktop/code/staakX/backend/src/controllers/auth.controller.ts:52:33)
+2025-05-12 07:28:37 [31merror[39m: AxiosError: Request failed with status code 401
+    at settle (file:///C:/Users/user/Desktop/code/staakX/backend/node_modules/axios/lib/core/settle.js:19:12)
+    at IncomingMessage.handleStreamEnd (file:///C:/Users/user/Desktop/code/staakX/backend/node_modules/axios/lib/adapters/http.js:599:11)
+    at IncomingMessage.emit (node:events:530:35)
+    at endReadableNT (node:internal/streams/readable:1698:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:90:21)
+    at Axios.request (file:///C:/Users/user/Desktop/code/staakX/backend/node_modules/axios/lib/core/Axios.js:45:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async handleCallback (file:///C:/Users/user/Desktop/code/staakX/backend/src/controllers/auth.controller.ts:52:33)
+2025-05-12 07:31:50 [31merror[39m: AxiosError: Request failed with status code 401
+    at settle (file:///C:/Users/user/Desktop/code/staakX/backend/node_modules/axios/lib/core/settle.js:19:12)
+    at IncomingMessage.handleStreamEnd (file:///C:/Users/user/Desktop/code/staakX/backend/node_modules/axios/lib/adapters/http.js:599:11)
+    at IncomingMessage.emit (node:events:530:35)
+    at endReadableNT (node:internal/streams/readable:1698:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:90:21)
+    at Axios.request (file:///C:/Users/user/Desktop/code/staakX/backend/node_modules/axios/lib/core/Axios.js:45:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async handleCallback (file:///C:/Users/user/Desktop/code/staakX/backend/src/controllers/auth.controller.ts:52:33)
+2025-05-12 07:34:09 [31merror[39m: AxiosError: Request failed with status code 401
+    at settle (file:///C:/Users/user/Desktop/code/staakX/backend/node_modules/axios/lib/core/settle.js:19:12)
+    at IncomingMessage.handleStreamEnd (file:///C:/Users/user/Desktop/code/staakX/backend/node_modules/axios/lib/adapters/http.js:599:11)
+    at IncomingMessage.emit (node:events:530:35)
+    at endReadableNT (node:internal/streams/readable:1698:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:90:21)
+    at Axios.request (file:///C:/Users/user/Desktop/code/staakX/backend/node_modules/axios/lib/core/Axios.js:45:41)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async handleCallback (file:///C:/Users/user/Desktop/code/staakX/backend/src/controllers/auth.controller.ts:53:33)
+2025-05-12 07:39:18 [31merror[39m: PrismaClientValidationError: 
+Invalid `prisma.user.findUnique()` invocation:
+
+{
+  where: {
++   email: String
+  }
+}
+
+Argument `email` must not be null.
+    at An (C:\Users\user\Desktop\code\staakX\backend\node_modules\@prisma\client\runtime\library.js:29:1363)
+    at zn.handleRequestError (C:\Users\user\Desktop\code\staakX\backend\node_modules\@prisma\client\runtime\library.js:121:7102)
+    at zn.handleAndLogRequestError (C:\Users\user\Desktop\code\staakX\backend\node_modules\@prisma\client\runtime\library.js:121:6784)
+    at zn.request (C:\Users\user\Desktop\code\staakX\backend\node_modules\@prisma\client\runtime\library.js:121:6491)
+    at async l (C:\Users\user\Desktop\code\staakX\backend\node_modules\@prisma\client\runtime\library.js:130:9778)
+    at async findUser (file:///C:/Users/user/Desktop/code/staakX/backend/src/services/user.service.ts:5:18)
+    at async createUser (file:///C:/Users/user/Desktop/code/staakX/backend/src/services/user.service.ts:14:22)
+    at async handleCallback (file:///C:/Users/user/Desktop/code/staakX/backend/src/controllers/auth.controller.ts:58:22)
+2025-05-12 07:47:10 [31merror[39m: PrismaClientValidationError: 
+Invalid `prisma.user.findUnique()` invocation:
+
+{
+  where: {
++   email: String
+  }
+}
+
+Argument `email` must not be null.
+    at An (C:\Users\user\Desktop\code\staakX\backend\node_modules\@prisma\client\runtime\library.js:29:1363)
+    at zn.handleRequestError (C:\Users\user\Desktop\code\staakX\backend\node_modules\@prisma\client\runtime\library.js:121:7102)
+    at zn.handleAndLogRequestError (C:\Users\user\Desktop\code\staakX\backend\node_modules\@prisma\client\runtime\library.js:121:6784)
+    at zn.request (C:\Users\user\Desktop\code\staakX\backend\node_modules\@prisma\client\runtime\library.js:121:6491)
+    at async l (C:\Users\user\Desktop\code\staakX\backend\node_modules\@prisma\client\runtime\library.js:130:9778)
+    at async findUser (file:///C:/Users/user/Desktop/code/staakX/backend/src/services/user.service.ts:5:18)
+    at async createUser (file:///C:/Users/user/Desktop/code/staakX/backend/src/services/user.service.ts:14:22)
+    at async handleCallback (file:///C:/Users/user/Desktop/code/staakX/backend/src/controllers/auth.controller.ts:58:22)
+2025-05-12 08:08:25 [31merror[39m: PrismaClientValidationError: 
+Invalid `prisma.user.findUnique()` invocation:
+
+{
+  where: {
++   email: String
+  }
+}
+
+Argument `email` must not be null.
+    at An (C:\Users\user\Desktop\code\staakX\backend\node_modules\@prisma\client\runtime\library.js:29:1363)
+    at zn.handleRequestError (C:\Users\user\Desktop\code\staakX\backend\node_modules\@prisma\client\runtime\library.js:121:7102)
+    at zn.handleAndLogRequestError (C:\Users\user\Desktop\code\staakX\backend\node_modules\@prisma\client\runtime\library.js:121:6784)
+    at zn.request (C:\Users\user\Desktop\code\staakX\backend\node_modules\@prisma\client\runtime\library.js:121:6491)
+    at async l (C:\Users\user\Desktop\code\staakX\backend\node_modules\@prisma\client\runtime\library.js:130:9778)
+    at async findUser (file:///C:/Users/user/Desktop/code/staakX/backend/src/services/user.service.ts:5:18)
+    at async createUser (file:///C:/Users/user/Desktop/code/staakX/backend/src/services/user.service.ts:14:22)
+    at async handleCallback (file:///C:/Users/user/Desktop/code/staakX/backend/src/controllers/auth.controller.ts:58:22)
+2025-05-12 08:10:45 [31merror[39m: TypeError: Cannot read properties of undefined (reading 'sub')
+    at createUser (file:///C:/Users/user/Desktop/code/staakX/backend/src/services/user.service.ts:14:76)
+    at handleCallback (file:///C:/Users/user/Desktop/code/staakX/backend/src/controllers/auth.controller.ts:58:28)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+2025-05-12 08:12:16 [31merror[39m: PrismaClientValidationError: 
+Invalid `prisma.user.findUnique()` invocation:
+
+{
+  where: {
+    providerId: 87623806
+                ~~~~~~~~
+  }
+}
+
+Argument `providerId`: Invalid value provided. Expected String, provided Int.
+    at An (C:\Users\user\Desktop\code\staakX\backend\node_modules\@prisma\client\runtime\library.js:29:1363)
+    at zn.handleRequestError (C:\Users\user\Desktop\code\staakX\backend\node_modules\@prisma\client\runtime\library.js:121:7102)
+    at zn.handleAndLogRequestError (C:\Users\user\Desktop\code\staakX\backend\node_modules\@prisma\client\runtime\library.js:121:6784)
+    at zn.request (C:\Users\user\Desktop\code\staakX\backend\node_modules\@prisma\client\runtime\library.js:121:6491)
+    at async l (C:\Users\user\Desktop\code\staakX\backend\node_modules\@prisma\client\runtime\library.js:130:9778)
+    at async findUser (file:///C:/Users/user/Desktop/code/staakX/backend/src/services/user.service.ts:5:18)
+    at async createUser (file:///C:/Users/user/Desktop/code/staakX/backend/src/services/user.service.ts:14:22)
+    at async handleCallback (file:///C:/Users/user/Desktop/code/staakX/backend/src/controllers/auth.controller.ts:58:22)
+2025-05-12 08:14:17 [31merror[39m: PrismaClientKnownRequestError: 
+Invalid `prisma.user.create()` invocation:
+
+
+Unique constraint failed on the constraint: `User_username_key`
+    at zn.handleRequestError (C:\Users\user\Desktop\code\staakX\backend\node_modules\@prisma\client\runtime\library.js:121:7459)
+    at zn.handleAndLogRequestError (C:\Users\user\Desktop\code\staakX\backend\node_modules\@prisma\client\runtime\library.js:121:6784)
+    at zn.request (C:\Users\user\Desktop\code\staakX\backend\node_modules\@prisma\client\runtime\library.js:121:6491)
+    at async l (C:\Users\user\Desktop\code\staakX\backend\node_modules\@prisma\client\runtime\library.js:130:9778)
+    at async createUser (file:///C:/Users/user/Desktop/code/staakX/backend/src/services/user.service.ts:17:30)
+    at async handleCallback (file:///C:/Users/user/Desktop/code/staakX/backend/src/controllers/auth.controller.ts:58:22)
+2025-05-12 08:18:36 [31merror[39m: PrismaClientKnownRequestError: 
+Invalid `prisma.user.create()` invocation:
+
+
+Unique constraint failed on the constraint: `User_username_key`
+    at zn.handleRequestError (C:\Users\user\Desktop\code\staakX\backend\node_modules\@prisma\client\runtime\library.js:121:7459)
+    at zn.handleAndLogRequestError (C:\Users\user\Desktop\code\staakX\backend\node_modules\@prisma\client\runtime\library.js:121:6784)
+    at zn.request (C:\Users\user\Desktop\code\staakX\backend\node_modules\@prisma\client\runtime\library.js:121:6491)
+    at async l (C:\Users\user\Desktop\code\staakX\backend\node_modules\@prisma\client\runtime\library.js:130:9778)
+    at async createUser (file:///C:/Users/user/Desktop/code/staakX/backend/src/services/user.service.ts:17:30)
+    at async handleCallback (file:///C:/Users/user/Desktop/code/staakX/backend/src/controllers/auth.controller.ts:58:22)
+2025-05-15 09:54:52 [31merror[39m: PrismaClientValidationError: 
+Invalid `prisma.user.create()` invocation:
+
+{
+  data: {
+    email: "kdpcoder@gmail.com",
+    provider: "email",
+    providerId: "b5f2f7296723252fd95408e618f5d3387dd2b356",
++   name: String
+  }
+}
+
+Argument `name` is missing.
+    at An (C:\Users\user\Desktop\code\staakX\backend\node_modules\@prisma\client\runtime\library.js:29:1363)
+    at zn.handleRequestError (C:\Users\user\Desktop\code\staakX\backend\node_modules\@prisma\client\runtime\library.js:121:7102)
+    at zn.handleAndLogRequestError (C:\Users\user\Desktop\code\staakX\backend\node_modules\@prisma\client\runtime\library.js:121:6784)
+    at zn.request (C:\Users\user\Desktop\code\staakX\backend\node_modules\@prisma\client\runtime\library.js:121:6491)
+    at async l (C:\Users\user\Desktop\code\staakX\backend\node_modules\@prisma\client\runtime\library.js:130:9778)
+    at async createUser (file:///C:/Users/user/Desktop/code/staakX/backend/src/services/user.service.ts:38:33)
+    at async handleEmailCallback (file:///C:/Users/user/Desktop/code/staakX/backend/src/controllers/auth.controller.ts:128:22)
+2025-05-15 09:54:52 [31merror[39m: Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at ServerResponse.setHeader (node:_http_outgoing:699:11)
+    at ServerResponse.header (C:\Users\user\Desktop\code\staakX\backend\node_modules\express\lib\response.js:684:10)
+    at ServerResponse.send (C:\Users\user\Desktop\code\staakX\backend\node_modules\express\lib\response.js:161:12)
+    at ServerResponse.json (C:\Users\user\Desktop\code\staakX\backend\node_modules\express\lib\response.js:250:15)
+    at handleEmailCallback (file:///C:/Users/user/Desktop/code/staakX/backend/src/controllers/auth.controller.ts:132:25)
+2025-05-15 09:54:52 [31merror[39m: 	Unexpected Error: Cannot set headers after they are sent to the client
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at ServerResponse.setHeader (node:_http_outgoing:699:11)
+    at ServerResponse.header (C:\Users\user\Desktop\code\staakX\backend\node_modules\express\lib\response.js:684:10)
+    at ServerResponse.send (C:\Users\user\Desktop\code\staakX\backend\node_modules\express\lib\response.js:161:12)
+    at ServerResponse.json (C:\Users\user\Desktop\code\staakX\backend\node_modules\express\lib\response.js:250:15)
+    at handleEmailCallback (file:///C:/Users/user/Desktop/code/staakX/backend/src/controllers/auth.controller.ts:136:25)
+2025-05-15 10:01:13 [31merror[39m: PrismaClientKnownRequestError: 
+Invalid `prisma.userAuthToken.create()` invocation:
+
+
+Unique constraint failed on the constraint: `UserAuthToken_email_key`
+    at zn.handleRequestError (C:\Users\user\Desktop\code\staakX\backend\node_modules\@prisma\client\runtime\library.js:121:7459)
+    at zn.handleAndLogRequestError (C:\Users\user\Desktop\code\staakX\backend\node_modules\@prisma\client\runtime\library.js:121:6784)
+    at zn.request (C:\Users\user\Desktop\code\staakX\backend\node_modules\@prisma\client\runtime\library.js:121:6491)
+    at async l (C:\Users\user\Desktop\code\staakX\backend\node_modules\@prisma\client\runtime\library.js:130:9778)
+    at async createAuthToken (file:///C:/Users/user/Desktop/code/staakX/backend/src/services/user.service.ts:90:30)
+    at async handleEmailAuth (file:///C:/Users/user/Desktop/code/staakX/backend/src/controllers/auth.controller.ts:103:31)
+2025-05-15 10:02:16 [31merror[39m: PrismaClientKnownRequestError: 
+Invalid `prisma.userAuthToken.create()` invocation:
+
+
+Unique constraint failed on the constraint: `UserAuthToken_email_key`
+    at zn.handleRequestError (C:\Users\user\Desktop\code\staakX\backend\node_modules\@prisma\client\runtime\library.js:121:7459)
+    at zn.handleAndLogRequestError (C:\Users\user\Desktop\code\staakX\backend\node_modules\@prisma\client\runtime\library.js:121:6784)
+    at zn.request (C:\Users\user\Desktop\code\staakX\backend\node_modules\@prisma\client\runtime\library.js:121:6491)
+    at async l (C:\Users\user\Desktop\code\staakX\backend\node_modules\@prisma\client\runtime\library.js:130:9778)
+    at async createAuthToken (file:///C:/Users/user/Desktop/code/staakX/backend/src/services/user.service.ts:90:30)
+    at async handleEmailAuth (file:///C:/Users/user/Desktop/code/staakX/backend/src/controllers/auth.controller.ts:103:31)
+2025-05-15 10:17:35 [31merror[39m: PrismaClientKnownRequestError: 
+Invalid `prisma.userAuthToken.findFirst()` invocation:
+
+
+Inconsistent column data: Failed to convert '3' to 'String' for the field 'authKey'.
+    at zn.handleRequestError (C:\Users\user\Desktop\code\staakX\backend\node_modules\@prisma\client\runtime\library.js:121:7459)
+    at zn.handleAndLogRequestError (C:\Users\user\Desktop\code\staakX\backend\node_modules\@prisma\client\runtime\library.js:121:6784)
+    at zn.request (C:\Users\user\Desktop\code\staakX\backend\node_modules\@prisma\client\runtime\library.js:121:6491)
+    at async l (C:\Users\user\Desktop\code\staakX\backend\node_modules\@prisma\client\runtime\library.js:130:9778)
+    at async createAuthToken (file:///C:/Users/user/Desktop/code/staakX/backend/src/services/user.service.ts:90:31)
+    at async handleEmailAuth (file:///C:/Users/user/Desktop/code/staakX/backend/src/controllers/auth.controller.ts:103:31)

@@ -1,0 +1,84 @@
+@import "tailwindcss";
+
+
+*{
+  /* @apply border; */
+}
+
+:root {
+  --background: #ffffff;
+  --foreground: #171717;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #0a0a0a;
+    --foreground: #ededed;
+  }
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.flex-r-center {
+  @apply flex justify-center items-center;
+}
+.flex-c-center {
+  @apply flex justify-center flex-col items-center;
+}
+
+
+input[type="radio"] {
+  accent-color: rgb(255, 136, 0); /* Changes the inner circle color */
+}
+
+
+
+
+.time-selector-container {
+  height: 180px;
+  overflow: hidden;
+  position: relative;
+}
+
+.time-selector-wheel {
+  height: 100%;
+  overflow-y: scroll;
+  scroll-snap-type: y mandatory;
+  scroll-behavior: smooth;
+  -webkit-overflow-scrolling: touch; /* For smooth scrolling on iOS */
+}
+
+.time-item {
+  height: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  scroll-snap-align: center;
+  transition: all 0.3s ease;
+}
+
+.time-item:not(.active) {
+  opacity: 0.6;
+  filter: blur(1px);
+  transform: scale(0.9);
+}
+
+/* Hide scrollbar but keep functionality */
+.time-selector-wheel::-webkit-scrollbar {
+  display: none;
+}
+
+.border {
+  @apply border-[1px] border-solid border-foreground/5
+}
