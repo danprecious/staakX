@@ -24,7 +24,7 @@ Whether you're learning React, Node.js, or TypeScript — Staakx sends you tailo
 
 ## ✨ Key Features
 
-* 🔐 **Authentication System** (Supabase): Login, Signup, Protected Routes
+* 🔐 **Authentication System** (JWT): Login, Signup, Protected Routes
 * 🧭 **Onboarding Flow**: Choose your preferred stack and interests
 * 🎯 **Daily Challenge Delivery** *(upcoming)*
 * 📈 Personalized Dashboard *(planned)*
