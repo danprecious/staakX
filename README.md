@@ -16,7 +16,7 @@ Whether you're learning React, Node.js, or TypeScript — Staakx sends you tailo
 
 * **Frontend**: Next.js (App Router), TailwindCSS
 * **Backend**: Express.js (REST API)
-* **Auth & DB**: Supabase
+* **Auth & DB**: JWT & MongoDB
 * **State Management**: Context API (will scale to Zustand/Redux)
 * **Deployment**: Vercel (Frontend), Render (API)
 
